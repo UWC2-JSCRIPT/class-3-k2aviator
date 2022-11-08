@@ -26,4 +26,3 @@ protostar.accelerate()
 sutherland.accelerate()
 ganges.accelerate()
 
-accelerate.call("test","test")
